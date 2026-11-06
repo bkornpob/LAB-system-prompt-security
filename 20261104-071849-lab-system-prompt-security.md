@@ -232,16 +232,16 @@ CONGRATULATIONS! you just successfully made a security patch.
 
 each image shows 4 terminal panels: top-left (model = `llama3.2:3b`), top-right (model = `test-model`), bottom-left (model = `test-model-v2`), bottom-right (no model).
 
-![[images/20261104-071849-lab-system-prompt-security-1793787325115.webp]]
+![](LAB-system-prompt-security/images/20261104-071849-lab-system-prompt-security-1793787325115.webp)
 Image-1 = probe-1 asking for omelet recipes
 
-![[images/20261104-071849-lab-system-prompt-security-1793787472339.webp]]
+![](images/20261104-071849-lab-system-prompt-security-1793787472339.webp)
 Image-2 = probe-2 asking for secret code
 
-![[images/20261104-071849-lab-system-prompt-security-1793787565268.webp]]
+![](images/20261104-071849-lab-system-prompt-security-1793787565268.webp)
 Image-3 = probe-3 asking for alcoholic drink recipes
 
-![[images/20261104-071849-lab-system-prompt-security-1793787705843.webp]]
+![](images/20261104-071849-lab-system-prompt-security-1793787705843.webp)
 Image-4 = probe-prompt-extraction showing success jailbreak with `test-model` and success security patch with `test-model-v2`
 
 # IRL
